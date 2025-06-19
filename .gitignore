@@ -1,0 +1,16 @@
+# ⚙️ Node dependencies
+node_modules/
+
+# 🧪 Playwright test artifacts
+/test-results/
+/playwright-report/
+/blob-report/
+/playwright/.cache/
+
+# 🧾 Allure reports (auto-generated)
+allure-report/
+allure-results/
+
+# 🔐 Environment variables
+.env
+
